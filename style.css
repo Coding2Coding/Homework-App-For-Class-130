@@ -1,0 +1,26 @@
+#bodyTag {
+    background: linear-gradient(rgb(255, 220, 252) 0%, rgb(203, 234, 255) 100%);
+    color: lightcoral;
+    font-family: Calibri;
+}
+
+#heading {
+    background: linear-gradient(lightpink 0%, lightskyblue 100%);
+    color: #ffffff;
+    font-family: Calibri;
+    box-shadow: 4px 4px 4px lightcoral;
+}
+
+#note {
+    color: blue;
+    font-size: 14px;
+    font-family: Calibri;
+}
+
+canvas {
+    border-color: blue;
+    border-width: 4px;
+    border-style: dashed;
+    color: rgb(255, 220, 252);
+    box-shadow: 4px 4px 4px rgb(203, 234, 255);
+}
